@@ -1,0 +1,16 @@
+footer {
+  background-color: black;
+  color: white;
+}
+.first-line {
+  border-bottom: 1px solid #392d23;
+}
+
+.second-line a {
+  color: white;
+  text-decoration: none;
+}
+
+nav {
+  padding: 2rem !important;
+}
