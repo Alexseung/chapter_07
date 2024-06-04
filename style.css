@@ -14,3 +14,21 @@ footer {
 nav {
   padding: 2rem !important;
 }
+.third-line {
+  border-top: 1px solid #392d23;
+  display: none;
+}
+
+@media screen and (max-width: 48rem) {
+  .first-line {
+    text-align: center;
+  }
+
+  .second-line {
+    padding: 0 2rem;
+  }
+
+  .third-line {
+    display: block;
+  }
+}
